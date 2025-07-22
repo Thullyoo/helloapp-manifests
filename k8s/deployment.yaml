@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: fastapi-app
-        image: thullyodev/myapp-fastapi:v1
+        image: thullyodev/myapp-fastapi:v4
         ports:
         - containerport: 5000
 
